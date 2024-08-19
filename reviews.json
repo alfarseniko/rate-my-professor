@@ -1,0 +1,124 @@
+{
+    "reviews": [
+        {
+            "professor": "Dr. Emily Chen",
+            "subject": "Physics",
+            "stars": 4,
+            "review": "Engaging lectures and clear explanations. Challenging but fair exams."
+        },
+        {
+            "professor": "Prof. Michael Johnson",
+            "subject": "Literature",
+            "stars": 3,
+            "review": "Knowledgeable but sometimes disorganized. Interesting reading list."
+        },
+        {
+            "professor": "Dr. Sarah Thompson",
+            "subject": "Biology",
+            "stars": 5,
+            "review": "Excellent teacher! Makes complex concepts easy to understand."
+        },
+        {
+            "professor": "Prof. David Lee",
+            "subject": "Computer Science",
+            "stars": 2,
+            "review": "Difficult to follow. Assignments often unclear and poorly explained."
+        },
+        {
+            "professor": "Dr. Rachel Green",
+            "subject": "Psychology",
+            "stars": 4,
+            "review": "Passionate about the subject. Encourages critical thinking."
+        },
+        {
+            "professor": "Prof. Robert Brown",
+            "subject": "History",
+            "stars": 3,
+            "review": "Extensive knowledge but lectures can be dry. Fair grader."
+        },
+        {
+            "professor": "Dr. Lisa Wang",
+            "subject": "Chemistry",
+            "stars": 5,
+            "review": "Brilliant instructor. Always available for extra help. Highly recommended!"
+        },
+        {
+            "professor": "Prof. James Wilson",
+            "subject": "Mathematics",
+            "stars": 2,
+            "review": "Moves too quickly through material. Not very approachable."
+        },
+        {
+            "professor": "Dr. Maria Garcia",
+            "subject": "Sociology",
+            "stars": 4,
+            "review": "Thought-provoking discussions. Assignments are relevant and interesting."
+        },
+        {
+            "professor": "Prof. Thomas Anderson",
+            "subject": "Engineering",
+            "stars": 3,
+            "review": "Solid grasp of the subject. Could improve on explaining practical applications."
+        },
+        {
+            "professor": "Dr. Jennifer Lewis",
+            "subject": "Art History",
+            "stars": 5,
+            "review": "Passionate and inspiring. Makes art come alive in her lectures."
+        },
+        {
+            "professor": "Prof. Daniel Kim",
+            "subject": "Economics",
+            "stars": 1,
+            "review": "Confusing explanations. Seems uninterested in student success."
+        },
+        {
+            "professor": "Dr. Olivia Martinez",
+            "subject": "Environmental Science",
+            "stars": 4,
+            "review": "Engaging field trips and hands-on projects. Very knowledgeable."
+        },
+        {
+            "professor": "Prof. William Taylor",
+            "subject": "Philosophy",
+            "stars": 3,
+            "review": "Challenging material. Encourages debate but can be intimidating."
+        },
+        {
+            "professor": "Dr. Sophia Patel",
+            "subject": "Neuroscience",
+            "stars": 5,
+            "review": "Cutting-edge research incorporated into lessons. Excellent mentor."
+        },
+        {
+            "professor": "Prof. Christopher White",
+            "subject": "Political Science",
+            "stars": 2,
+            "review": "Biased presentations. Doesn't encourage diverse viewpoints."
+        },
+        {
+            "professor": "Dr. Elizabeth Brown",
+            "subject": "Linguistics",
+            "stars": 4,
+            "review": "Fascinating course content. Assignments can be time-consuming but worthwhile."
+        },
+        {
+            "professor": "Prof. Andrew Nelson",
+            "subject": "Business Administration",
+            "stars": 3,
+            "review": "Real-world examples are helpful. Could improve on feedback for projects."
+        },
+        {
+            "professor": "Dr. Laura Rodriguez",
+            "subject": "Anthropology",
+            "stars": 5,
+            "review": "Incredible wealth of knowledge. Makes every class an adventure."
+        },
+        {
+            "professor": "Prof. Kevin Chang",
+            "subject": "Statistics",
+            "stars": 2,
+            "review": "Struggles to explain complex concepts. Exams are much harder than homework."
+        }
+    ]
+}
